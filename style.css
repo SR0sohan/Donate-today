@@ -195,6 +195,7 @@
     padding: 19px 60px;
     border: none;
     font-size: 18px;
+    outline: none;
 }
 .input-color button{
     padding: 17px 40px;
