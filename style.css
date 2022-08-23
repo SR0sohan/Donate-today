@@ -10,7 +10,7 @@
 .top-section{
     /* background-image: url('/images/donation7.jpg'); */
     /* background-image: url("/images/donation7.jpg"); */
-    background-image: url("../images/donation7.jpg");
+    background-image: url(images/donation7.jpg);
     background-repeat: no-repeat;
     height: 100vh;
     width: 100%;
